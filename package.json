@@ -1,0 +1,23 @@
+{
+  "name": "courseguide",
+  "version": "1.0.0",
+  "description": "HKN course guide for ECE department at UCSD. ",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltindall/hkn-courseguide.git"
+  },
+  "author": "Lucas Tindall, original source code from HKN UC Berkeley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ltindall/hkn-courseguide/issues"
+  },
+  "homepage": "https://github.com/ltindall/hkn-courseguide#readme"
+}
